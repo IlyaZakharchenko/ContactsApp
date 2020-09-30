@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContactsApp</string>
+    <string name="contact_avatar_image">Contact avatar image</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="save">Save</string>
+</resources>
